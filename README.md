@@ -17,6 +17,5 @@ Planned release materials include:
 - statistical analysis scripts;
 - aggregate result tables;
 - figure source data;
-- de-identified or synthetic examples.
 
 A formal citation and DOI will be added after publication.
